@@ -3,7 +3,7 @@
 
   <p>
     <a href="mailto:chenys53@mail2.sysu.edu.cn">
-      <img src="https://img.shields.io/badge/SYSU_Mail-chenys53@mail2.sysu.edu.cn-red?style=flat-square&logo=gmail&logoColor=white" alt="SYSU Mail"/>
+      <img src="https://img.shields.io/badge/SYSU_Mail-chenys53@mail2.sysu.edu.cn-red?style=flat-square&logoColor=white" alt="SYSU Mail"/>
     </a>
     <a href="mailto:yongsaich@foxmail.com">
       <img src="https://img.shields.io/badge/QQ_Mail-yongsaich@foxmail.com-blue?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ Mail"/>
