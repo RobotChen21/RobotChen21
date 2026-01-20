@@ -128,7 +128,6 @@ An AI-powered dating platform replacing forms with conversational profiling.
 </div> 
 <br/> 
 <div align="center">   
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RobotChen21&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" /> </div> <br/> <div align="center">   
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=RobotChen21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" /> 
 </div>
 
