@@ -23,45 +23,29 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RobotChen21&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<br/>
+
+- 🏫 **M.S. in CS** @ Sun Yat-sen University (2025-2028)
+- 🎯 **B.E. in Network Eng.** @ Xidian University (2021-2025)
+- 🔭 **Focus**: LLM Fine-tuning (SFT/DPO) & Model Alignment (RLHF)
+- 💡 **Passion**: Clean Arch & DDD
+
+<br/>
 
 ```java
 public class Developer {
     private String name = "Chen Yongsai";
-    private String[] roles = {
-        "Backend Engineer", 
-        "LLM Application Developer"
-    };
-    
-    public String getCurrentFocus() {
-        return "Building AI-native apps with LLM fine-tuning & RAG";
-    }
+    private String[] roles = { "Backend Engineer", "LLM Application Developer" };
     
     public String[] getLocation() {
         return new String[]{"Guangzhou", "Shenzhen"};
     }
 }
 ```
-    </td>
-    <td width="45%" valign="top">
-
-### 🎓 About Me
-
-🏫 **M.S. in CS** @ Sun Yat-sen University (2025-2028)  
-🎯 **B.E. in Network Eng.** @ Xidian University (2021-2025)  
-🔭 Focus: **LLM Fine-tuning (SFT/DPO)**  
-🌱 Deep Dive: **Model Alignment (RLHF)**  
-💡 Passion: **Clean Arch & DDD**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RobotChen21&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-</td>
-  </tr>
-</table>
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
