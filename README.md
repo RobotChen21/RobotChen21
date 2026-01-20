@@ -150,19 +150,29 @@ An AI-powered dating platform replacing forms with conversational profiling.
 ## 📈 Current Learning Path
 
 ```mermaid
-graph LR
-    A[LLM Fundamentals] --> B[Fine-tuning SFT/DPO]
-    B --> C[Model Alignment RLHF]
-    C --> D[Catastrophic Forgetting]
-    D --> E[Production Deployment]
-    E --> F[Agentic Workflows]
-    F --> G[AI-Native Apps]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffeaa7
-    style F fill:#dfe6e9
-    style G fill:#74b9ff
+graph TD
+    %% 定义样式类
+    classDef ai fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#01579b;
+    classDef be fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100;
+    classDef goal fill:#e8f5e9,stroke:#1b5e20,stroke-width:4px,color:#1b5e20;
+
+    subgraph LLM_Path [🤖 AI & LLM Specialization]
+        direction TB
+        A[LLM Fundamentals]:::ai --> B[Fine-tuning SFT/DPO]:::ai
+        B --> C[Model Alignment RLHF]:::ai
+        C --> D[RAG & Vector DB]:::ai
+        D --> E[Agentic Workflows]:::ai
+    end
+
+    subgraph Backend_Path [🛠️ Backend & Architecture]
+        direction TB
+        F[Business Logic & CRUD]:::be --> G[Microservices & RPC]:::be
+        G --> H[DDD & Clean Arch]:::be
+        H --> I[High Concurrency/Performance]:::be
+        I --> J[Distributed System Design]:::be
+    end
+
+    %% 两条路最终汇聚的目标
+    E --> K[Build AI-Native Applications]:::goal
+    J --> K
 ```
