@@ -138,21 +138,14 @@ An AI-powered dating platform replacing forms with conversational profiling.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RobotChen21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobotChen21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RobotChen21&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RobotChen21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" />
+<div align="center">   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobotChen21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobotChen21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" /> 
+</div> 
+<br/> 
+<div align="center">   
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RobotChen21&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" /> </div> <br/> <div align="center">   
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=RobotChen21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" /> 
 </div>
 
 ## 🏆 Achievements
