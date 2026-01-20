@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/SYSU_Mail-chenys53@mail2.sysu.edu.cn-red?style=flat-square&logo=gmail&logoColor=white" alt="SYSU Mail"/>
     </a>
     <a href="mailto:yongsaich@foxmail.com">
-      <img src="https://img.shields.io/badge/Email-yongsaich@foxmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email"/>
+      <img src="https://img.shields.io/badge/QQ_Mail-yongsaich@foxmail.com-blue?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ Mail"/>
     </a>
     <a href="mailto:nalalyx845@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-nalalyx845@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -46,18 +46,20 @@ public class Developer {
 ```
     </td>
     <td width="45%" valign="top">
-      <h3>🎓 About Me</h3>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>🏫 <b>M.S. in CS</b> @ Sun Yat-sen University (2025-2028)</li>
-        <li>🎯 <b>B.E. in Network Eng.</b> @ Xidian University (2021-2025)</li>
-        <li>🔭 Focus: <b>LLM Fine-tuning (SFT/DPO)</b></li>
-        <li>🌱 Deep Dive: <b>Model Alignment (RLHF)</b></li>
-        <li>💡 Passion: <b>Clean Arch & DDD</b></li>
-      </ul>
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=RobotChen21&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-      </div>
-    </td>
+
+### 🎓 About Me
+
+🏫 **M.S. in CS** @ Sun Yat-sen University (2025-2028)  
+🎯 **B.E. in Network Eng.** @ Xidian University (2021-2025)  
+🔭 Focus: **LLM Fine-tuning (SFT/DPO)**  
+🌱 Deep Dive: **Model Alignment (RLHF)**  
+💡 Passion: **Clean Arch & DDD**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RobotChen21&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+</td>
   </tr>
 </table>
 
@@ -72,17 +74,21 @@ public class Developer {
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-    <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dubbo-FE7A16?style=for-the-badge" />
+    <br/>
+    <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Dubbo-FE7A16?style=for-the-badge&logo=apache&logoColor=white" />
   </p>
 
   <h3>LLM & AI Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/vLLM-6366F1?style=for-the-badge&logo=v&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLaMA_Factory-FFA500?style=for-the-badge&logo=meta&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   </p>
@@ -133,13 +139,20 @@ An AI-powered dating platform replacing forms with conversational profiling.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RobotChen21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RobotChen21&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RobotChen21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobotChen21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobotChen21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RobotChen21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RobotChen21&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RobotChen21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" />
 </div>
 
 ## 🏆 Achievements
