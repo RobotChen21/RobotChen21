@@ -1,0 +1,178 @@
+<div align="center">
+  <h1>Hi there, I'm Chen Yongsai 👋</h1>
+
+  <p>
+    <a href="mailto:chenys53@mail2.sysu.edu.cn">
+      <img src="https://img.shields.io/badge/SYSU_Mail-chenys53@mail2.sysu.edu.cn-red?style=flat-square&logo=gmail&logoColor=white" alt="SYSU Mail"/>
+    </a>
+    <a href="mailto:yongsaich@foxmail.com">
+      <img src="https://img.shields.io/badge/Email-yongsaich@foxmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email"/>
+    </a>
+    <a href="mailto:nalalyx845@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-nalalyx845@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://github.com/RobotChen21">
+      <img src="https://img.shields.io/badge/GitHub-RobotChen21-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
+  <p>
+    <i>Currently debugging life on branch: <code>feat/learn-large-models</code> | PR Status: pending ⏳</i>
+  </p>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+```java
+public class Developer {
+    private String name = "Chen Yongsai";
+    private String[] roles = {
+        "Backend Engineer", 
+        "LLM Application Developer"
+    };
+    
+    public String getCurrentFocus() {
+        return "Building AI-native apps with LLM fine-tuning & RAG";
+    }
+    
+    public String[] getLocation() {
+        return new String[]{"Guangzhou", "Shenzhen"};
+    }
+}
+```
+    </td>
+    <td width="45%" valign="top">
+      <h3>🎓 About Me</h3>
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li>🏫 <b>M.S. in CS</b> @ Sun Yat-sen University (2025-2028)</li>
+        <li>🎯 <b>B.E. in Network Eng.</b> @ Xidian University (2021-2025)</li>
+        <li>🔭 Focus: <b>LLM Fine-tuning (SFT/DPO)</b></li>
+        <li>🌱 Deep Dive: <b>Model Alignment (RLHF)</b></li>
+        <li>💡 Passion: <b>Clean Arch & DDD</b></li>
+      </ul>
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=RobotChen21&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+
+  <h3>Backend & Microservices</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dubbo-FE7A16?style=for-the-badge" />
+  </p>
+
+  <h3>LLM & AI Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  </p>
+
+  <h3>Tools & DevOps</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  </p>
+</div>
+
+## 🚀 Featured Projects
+
+### 🎯 [Cloud-Native Campus](https://github.com/RobotChen21/cloud-native-campus)
+> **Microservices Learning Management System** | *Personal Project - Full Architecture Design*
+
+A full-stack B2B2C education platform with 10+ microservices, redesigned and refactored with my own architectural thinking.
+
+**Highlights:**
+- 📊 **Performance**: Boosted TPS 500 → 2000 via Redis caching (handled penetration/breakdown/avalanche)
+- 🎬 **Media**: `xxl-job` sharded broadcasting for video transcoding & MinIO for breakpoint resume uploads
+- 🔄 **Consistency**: RabbitMQ + local message table pattern for distributed transactions
+
+**Tech Stack**: `Spring Boot` `Spring Cloud` `MySQL` `Redis` `RabbitMQ` `xxl-job` `MinIO`
+
+---
+
+### 💘 [Digital Matchmaker](https://github.com/RobotChen21/digital-matchmaker-recommand)
+> **AI-Native Dating Recommendation Engine** | *Solo Full-Stack Project*
+
+*Because `SELECT * FROM users WHERE perfect_match = true` never finds true love 😄*
+
+An AI-powered dating platform replacing forms with conversational profiling.
+
+**Key Innovations:**
+- 🤖 **Agentic Workflow**: LangGraph-orchestrated multi-turn dialogue with state persistence
+- 🧠 **Model Alignment**: DeepSeek → SFT/DPO distilled fine-tuning for natural tone
+- 🚀 **Inference**: vLLM + Multi-LoRA (90% cost reduction vs API)
+- 🔍 **Hybrid Retrieval**: MongoDB (Filter) → ElasticSearch (KNN/BM25) → RAG (Psych Ranking)
+
+**Tech Stack**: `Python` `FastAPI` `LangGraph` `vLLM` `LLaMA Factory` `Elasticsearch` `MongoDB`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RobotChen21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RobotChen21&theme=tokyonight&hide_border=true&background=0d1117"/>
+</div>
+<br/>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobotChen21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RobotChen21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae"/>
+</div>
+
+## 🏆 Achievements
+
+- 🥇 **MCM/ICM Finalist** (Top 3% globally in Mathematical Contest in Modeling)
+- 📜 **CET-4/6 Certificates**
+- 🏅 University Scholarships (4×)
+
+## 💭 Philosophy
+
+> "Code is poetry written in logic. I don't just implement features — I architect solutions, optimize performance, and obsess over clean design patterns."
+
+- 🔬 **Deep Diver**: Digging into source code & principles
+- 📚 **Documentation**: Official docs > Tutorials
+- 🎯 **Quality**: Strict adherence to standards
+- 🤝 **Collaboration**: Git Flow & Code Review advocate
+
+## 📈 Current Learning Path
+
+```mermaid
+graph LR
+    A[LLM Fundamentals] --> B[Fine-tuning SFT/DPO]
+    B --> C[Model Alignment RLHF]
+    C --> D[Catastrophic Forgetting]
+    D --> E[Production Deployment]
+    E --> F[Agentic Workflows]
+    F --> G[AI-Native Apps]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#ffeaa7
+    style F fill:#dfe6e9
+    style G fill:#74b9ff
+```
