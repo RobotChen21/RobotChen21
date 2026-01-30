@@ -90,16 +90,16 @@ public class Developer {
 ## 🚀 Featured Projects
 
 ### 🎯 [Cloud-Native Campus](https://github.com/RobotChen21/cloud-native-campus)
-> **Microservices Learning Management System** | *Personal Project - Full Architecture Design*
+> **Microservices Architecture Design & High-Concurrency Community Optimization** | *Refactoring & Performance Tuning*
 
-A full-stack B2B2C education platform with 10+ microservices, redesigned and refactored with my own architectural thinking.
+A comprehensive microservices-based online education platform. Focused on performance bottleneck analysis and system refactoring for the interactive community (comments & likes) and promotion modules.
 
 **Highlights:**
-- 📊 **Performance**: Boosted TPS 500 → 2000 via Redis caching (handled penetration/breakdown/avalanche)
-- 🎬 **Media**: `xxl-job` sharded broadcasting for video transcoding & MinIO for breakpoint resume uploads
-- 🔄 **Consistency**: RabbitMQ + local message table pattern for distributed transactions
+- 🔄 **Interaction Refactoring**: Designed **Hot/Cold Data Separation**: hot data (3 months) in Redis ZSet for ms-level response; cold data in DB with **Bloom Filter** to block invalid queries (latency 200ms+ → 10ms). Solved high-concurrency write bottlenecks using **MQ + Local Write-Behind**.
+- 🛡️ **Concurrency Optimization**: Implemented **Redisson + Lua** double atomic validation to prevent overselling/over-claiming. Used **Sequence Space Mapping** for massive redemption code generation and **BitMap** for deduplication, reducing memory by **98%** with O(1) checks.
+- ⚙️ **System Governance**: Built **Hotspot Dual-Mode Engine** (Global Aggregation + Local Caffeine Downgrade). Designed application-layer **CDC simulation** for **ES partial updates** to avoid data coverage risks. efficiently handled **BigKeys** via **xxl-job sharded broadcasting** and async deletion.
 
-**Tech Stack**: `Spring Boot` `Spring Cloud` `MySQL` `Redis` `RabbitMQ` `xxl-job` `MinIO`
+**Tech Stack**: `Spring Boot` `Spring Cloud` `MySQL` `Redis` `RabbitMQ` `xxl-job` `Elasticsearch` `Caffeine` `Redisson`
 
 ---
 
